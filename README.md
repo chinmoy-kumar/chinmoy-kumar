@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/Programmer-Chinmoy/gif_and_images/main/coding%20cover%20image.gif)
+![MasterHead](https://raw.githubusercontent.com/Programmer-Chinmoy/gif_and_images/main/coding%20cover%20image.gif)
 
 <h1 align="center">Hi 👋, I'm Chinmoy Kumar</h1>
 <h3 align="center">A passionate frontend developer</h3>
