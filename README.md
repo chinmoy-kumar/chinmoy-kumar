@@ -23,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&show_icons=true&locale=en&layout=compact" alt="chinmoy-kumar" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoy-kumar&show_icons=true&locale=en" alt="chinmoy-kumar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chinmoy-kumar&" alt="chinmoy-kumar" /></p>
