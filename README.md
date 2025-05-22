@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **the development of my skills**
 
-- 🌱 I’m currently learning **C++ & DSA**
+- 🌱 I’m currently learning **Java, DSA(C++)**
 
 - 📫 How to reach me **chinmoy.coder@gmail.com**
 
