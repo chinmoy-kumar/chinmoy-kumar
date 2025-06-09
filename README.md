@@ -14,6 +14,9 @@
 <p align="left">
 <a href="https://www.facebook.com/chinmoy.kumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinmoy.kumarr71" height="30" width="40" /></a>
 <a href="https://instagram.com/chinmoy_kumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmoy_kumarr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinmoy-kumar-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy-kumar-me" height="30" width="40" />
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
