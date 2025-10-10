@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
-- 🧠 I enjoy building projects that solve real-world problems.
+- 🧠 I enjoy building projects that **solve real-world problems.**
 
 - 🌱 I’m currently learning **Java, DSA(C++)**
 
