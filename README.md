@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
-- 🔭 I’m currently working on **the development of my skills**
+- 🧠 I enjoy building projects that solve real-world problems.
 
 - 🌱 I’m currently learning **Java, DSA(C++)**
 
-- 📫 How to reach me **chinmoy.coder@gmail.com**
+- 📫 Reach me **chinmoy.coder@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
