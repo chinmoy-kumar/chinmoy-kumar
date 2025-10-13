@@ -6,7 +6,7 @@
 
 - 🧠 I enjoy building projects that **solve real-world problems**.
 
-- 🌱 I’m currently learning **Java, DSA(C++)**
+- 🌱 I’m currently learning **Python, DSA(C++)**
 
 - 📫 Reach me **chinmoykumar.cse@gmail.com**
 
