@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Java, DSA(C++)**
 
-- 📫 Reach me **chinmoy.coder@gmail.com**
+- 📫 Reach me **chinmoykumar.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
