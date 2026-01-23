@@ -1,5 +1,8 @@
-![MasterHead](https://raw.githubusercontent.com/Programmer-Chinmoy/gif_and_images/main/coding%20cover%20image%20V2.gif)
+<!-- Top GIF Banner
+![MasterHead](https://raw.githubusercontent.com/Programmer-Chinmoy/gif_and_images/main/coding%20cover%20image%20V2.gif) 
+-->
 
+<h1 align="center" font-family="firacode">Chinmoy Kumar Tirtho</h1>
 <h3 align="center">A Passionate Programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
@@ -10,13 +13,15 @@
 
 - 📫 Reach me **chinmoykumar.cse@gmail.com**
 
+<!-- Social Medias -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/chinmoy-kumar-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy-kumar-me" height="30" width="40" /></a>
+<!-- Facebook -->
 <a href="https://www.facebook.com/chinmoy.kumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinmoy.kumarr71" height="30" width="40" /></a>
+<!-- Instagram -->
 <a href="https://instagram.com/chinmoy_kumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chinmoy_kumarr" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/chinmoy-kumar-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy-kumar-me" height="30" width="40" />
-</a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
