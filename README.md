@@ -37,12 +37,12 @@
 <!-- Headline with GIF
 <img src="https://media4.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif?cid=ecf05e47ak6mwfu812269zzr8ydv529109qzpb8rszwnja9e&rid=giphy.gif&ct=s" width=10%> My Competitive Programming Profiles 
 -->
-## My Competitive Programming Profiles
+<!-- ### My Competitive Programming Profiles -->
 
 <!-- https://leetcard.jacoblin.cool/ 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/naemazam?theme=nord&font=Salsa&ext=activity) 
 --> 
-
+<!--
 <div align="center" width=100%>
   <a href="https://codeforces.com/profile/chinmoy71"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
@@ -54,9 +54,9 @@
 	  &emsp; 
 	<a href="https://icpc.global/ICPCID/chinmoy71"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width=6% /></a>     
 	  &emsp; 
-	<a href="https://www.codingame.com/profile/chinmoy71" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%>
+	<a href="https://www.codingame.com/profile/chinmoy71" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width=20%> 
 </div>
-
+-->
 ## Languages and Tools:
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cpp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="linux" width="40" height="40"/> </a>
 </p>
@@ -106,5 +106,25 @@
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
 -->
 
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
+<div>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" /></a>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&show_icons=true&locale=en&layout=compact" alt="chinmoy-kumar" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoy-kumar&show_icons=true&locale=en" alt="chinmoy-kumar" /></p>
+
+<!-- Github Stats
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoy-kumar&show_icons=true&locale=en" alt="chinmoy-kumar" /></p> 
+-->
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight)](https://git.io/streak-stats)
+</div>
+
+## 🐍 A Snake Eating My Contributions Graph
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmoy-kumar/chinmoy-kumar/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinmoy-kumar/chinmoy-kumar/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinmoy-kumar/chinmoy-kumar/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
