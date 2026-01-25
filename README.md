@@ -109,9 +109,15 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 <div>
 <!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" /></a> -->
-	
-<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&show_icons=true&locale=en&layout=compact" alt="chinmoy-kumar" />
-<a href="https://git.io/streak-stats" style="float: left;"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" /></a> 
+
+<p align="center">
+  <a href="https://github.com/chinmoy-kumar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="165" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" height="165" />
+  </a>
+</p>
 
 <!-- Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoy-kumar&show_icons=true&locale=en" alt="chinmoy-kumar" /></p> 
