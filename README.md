@@ -14,7 +14,7 @@
 - :technologist: I love using Software to solve every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
-- :brain:I enjoy building projects that `solve real-world problems`
+- :brain:I enjoy building projects that `solve real-world problems.`
 - :nerd_face: Always `learning new things`.
 - :mailbox: Reach me **chinmoykumar.cse@gmail.com**
 <!-- - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](#).
@@ -108,23 +108,17 @@
 
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 <div>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" /></a>
+<!-- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" /></a> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&show_icons=true&locale=en&layout=compact" alt="chinmoy-kumar" /></p>
+<a href="https://git.io/streak-stats" style="float: left;"><img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" /></a> 
+<img style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&show_icons=true&locale=en&layout=compact" alt="chinmoy-kumar" />
+
+
+
 
 <!-- Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoy-kumar&show_icons=true&locale=en" alt="chinmoy-kumar" /></p> 
 -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight)](https://git.io/streak-stats)
 </div>
 
-## 🐍 A Snake Eating My Contributions Graph
-
-<p align="center">
-	<picture>
-		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/chinmoy-kumar/chinmoy-kumar/output/github-contribution-grid-snake-dark.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/chinmoy-kumar/chinmoy-kumar/output/github-contribution-grid-snake.svg">
-		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/chinmoy-kumar/chinmoy-kumar/output/github-contribution-grid-snake.svg">
-	</picture>
-</p>
