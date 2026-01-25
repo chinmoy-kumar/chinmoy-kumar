@@ -137,3 +137,19 @@
 <!-- Snake graph eating: https://github.com/Platane/snk?tab=readme-ov-file -->
 ## 🐍 A Snake Eating My Contributions Graph
 ![snake gif](https://github.com/chinmoy-kumar/chinmoy-kumar/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+<!-- Featured Repos -->
+## :open_file_folder: Featured Repoitories
+<p align="center">
+  <!-- repo 01 -->
+  <a href="https://github.com/chinmoy-kumar/python-codebase">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmoy-kumar&repo=python-codebase&theme=tokyonight" alt="Python Project" />
+  </a>
+  &nbsp;&nbsp;
+  <!-- repo 02 -->
+  <a href="https://github.com/chinmoy-kumar/competitive-programming">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmoy-kumar&repo=competitive-programming&theme=tokyonight" alt="Web Project" />
+  </a>
+</p>
+
