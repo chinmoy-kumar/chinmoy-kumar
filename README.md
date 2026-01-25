@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 	<!-- LinkedIn -->
-	<a href="https://www.linkedin.com/in/chinmoy-kumar-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-			generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy-kumar-me" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chinmoy-kumar-me/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-			generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chinmoy-kumar-me" height="30" width="40" /></a>
 	<!-- Facebook -->
 	<a href="https://www.facebook.com/chinmoy.kumarr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chinmoy.kumarr71" height="30" width="40" /></a>
 	<!-- Instagram -->
@@ -115,17 +115,19 @@
 [![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
 -->
 
-<!-- Github Stats -->
+<!-- Github Stats: https://github.com/anuraghazra/github-readme-stats -->
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 <p align="center">
+  <!-- Github Stats Card 01 -->
   <a href="https://github.com/chinmoy-kumar">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="165" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; 
+  <!-- Github Stats Card 02 -->
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" height="165" />
   </a>
-  <!-- Github Stats
+  <!-- Github Stats Card 03
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoy-kumar&theme=tokyonight&show_icons=true&locale=en" alt="chinmoy-kumar" />
   -->
 </p>
