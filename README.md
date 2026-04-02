@@ -7,14 +7,14 @@
 
 <!-- Read-me-typing: https://github.com/denvercoder1/readme-typing-svg -->
 <div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0CF783&center=true&random=true&width=435&lines=Competitive+Programmer;Aspiring+Software+Engineer;Full-Stack+Learner" alt="Typing SVG" /></a></div>
-
+<br>
 
 <!-- Right side GIF-->
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
 <!-- About Section -->
-- :school: I am currently pursuing my `Graduation` in [Computer Science & Engineering](https://www.aiub.edu/faculties/fst) at [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
+- :school: I am currently pursuing my `Graduation` in [Computer Science & Engineering](https://www.aiub.edu/faculties/fst) <br> at [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
 <!-- - :trophy: 3x `ACPC` Finalist. -->
 - :technologist: Solving complex problems through `efficient software solutions`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`.
@@ -64,12 +64,13 @@
 </div>
 -->
 
-<!-- Languages and Tools Cards -->
+<!-- Languages and Tools Cards 
 ## Languages and Tools:
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/cpp_intro.asp" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="cpp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="linux" width="40" height="40"/> </a>
 </p>
+-->
 
-<!-- Languages and Tools Template
+<!-- Languages and Tools Template 
 ##  Frontend 
 
 [![HTML5 Badge](https://img.shields.io/badge/-Html5-E34c26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34c26)](#) 
@@ -95,26 +96,33 @@
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#) 
 [![JWT Badge](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=00ADEF)](#) 
 [![Socket.io Badge](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)](#) 
+-->
+---
+## 🛠️ Skills & Tools 
+### Programming Languages
+[![C++](https://img.shields.io/badge/C++-0e5e9b?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=0e5e9b)](#)
+[![Java](https://img.shields.io/badge/Java-ed272c?style=for-the-badge&labelColor=black&logo=openjdk&logoColor=ed272c)](#)
+[![C#](https://img.shields.io/badge/C%23-5632d5?style=for-the-badge&labelColor=black&logo=csharp&logoColor=5632d5)](#)
+[![Python](https://img.shields.io/badge/Python-3e74a4?style=for-the-badge&labelColor=black&logo=python&logoColor=ffd449)](#)
 
-
-## Tools 
-
-
-[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-0078D7?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#) 
+### Technologies & Tools
+[![VSCode Badge](https://img.shields.io/badge/Visual_Studio-7d4ee4?style=for-the-badge&labelColor=black&logo=visual%20studio&logoColor=0078D7)](#) 
+[![VS Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&labelColor=black&logo=visualstudiocode&logoColor=007ACC)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=f34f29)](#) 
-[![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#) 
-[![NPM Badge](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) 
-[![Yarn Badge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)](#) 
-[![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) 
-[![Canva Badge](https://img.shields.io/badge/Canva-%2320C4CB.svg?style=for-the-badge&labelColor=black&logo=Canva&logoColor=20C4CB)](#) 
+[![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&labelColor=black&logo=intellij-idea&logoColor=FE315D)](#)
+<br>
 [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=#00C7B7)](#) 
 [![Vercel Badge](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&labelColor=black&logo=vercel&logoColor=white)](#) 
+[![Canva Badge](https://img.shields.io/badge/Canva-5e4ee3?style=for-the-badge&labelColor=#5e4ee3&logo=Canva&logoColor=#5e4ee3)](#) 
 [![Discord Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&labelColor=black&logo=discord&logoColor=7289DA)](#) 
-[![Zoom Badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&labelColor=black&logo=zoom&logoColor=2D8CFF)](#) 
-[![Zoom Badge](https://img.shields.io/badge/stackoverflow-f48024?style=for-the-badge&labelColor=black&logo=stackoverflow&logoColor=f48024)](#) 
--->
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&labelColor=black&logo=linux&logoColor=FCC624)](#)
+<!-- [![Postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&labelColor=black&logo=postman&logoColor=E85824)](#) -->
+<!-- [![NPM Badge](https://img.shields.io/badge/NPM-%23CC3534.svg?style=for-the-badge&labelColor=black&logo=npm&logoColor=CC3534)](#) -->
+<!-- [![Yarn Badge](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&labelColor=black&logo=yarn&logoColor=2C8EBB)](#) -->
+<!-- [![Figma Badge](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&labelColor=black&logo=figma&logoColor=F24E1E)](#) -->
 
 
+---
 <!-- Github Stats: https://github.com/anuraghazra/github-readme-stats -->
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 <p align="center">
@@ -135,6 +143,7 @@
 <br>
 
 <!-- Snake graph eating: https://github.com/Platane/snk?tab=readme-ov-file -->
+---
 ## 🐍 A Snake Eating My Contributions Graph
 ![snake gif](https://github.com/chinmoy-kumar/chinmoy-kumar/blob/output/github-contribution-grid-snake-dark.svg)
 
