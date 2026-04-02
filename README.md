@@ -120,15 +120,15 @@
 <p align="center">
   <!-- Github Stats Card 01: https://github.com/anuraghazra/github-readme-stats -->
   <a href="https://github.com/chinmoy-kumar">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chinmoy-kumar&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Top Langs" height="165" />
+    <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=chinmoy-kumar&layout=compact&theme=tokyonight" />
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <!-- Github Stats Card 02: https://github.com/DenverCoder1/github-readme-streak-stats -->
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=chinmoy-kumar&theme=tokyonight" alt="GitHub Streak" height="165" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=chinmoy-kumar&theme=tokyonight"/>
   </a>
-  <!-- Github Stats Card 03: https://github.com/anuraghazra/github-readme-stats
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=chinmoy-kumar&theme=tokyonight&show_icons=true&locale=en" alt="chinmoy-kumar" />
+  <!-- Github Stats Card 03: https://github.com/anuraghazra/github-readme-stats 
+	  <img src="https://github-readme-stats.zcy.dev/api?username=chinmoy-kumar&show_icons=true&theme=tokyonight" />
   -->
 </p>
 
