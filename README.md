@@ -14,7 +14,7 @@
 
 
 <!-- About Section -->
-- :school: I am currently pursuing my `Graduation` in [Computer Science & Engineering](https://www.aiub.edu/faculties/fst) <br> at [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
+- :school: I am currently pursuing my `Graduation` in [Computer Science & Engineering](https://www.aiub.edu/faculties/fst) at [American International University-Bangladesh (AIUB)](https://www.aiub.edu/).
 <!-- - :trophy: 3x `ACPC` Finalist. -->
 - :technologist: Solving complex problems through `efficient software solutions`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Codechef`.
