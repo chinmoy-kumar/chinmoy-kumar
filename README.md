@@ -149,16 +149,20 @@
 
 
 <!-- Featured Repos -->
+<!--
 ## :open_file_folder: Featured Repoitories
 <p align="center">
-  <!-- repo 01 -->
+-->
+  <!-- repo 01 
   <a href="https://github.com/chinmoy-kumar/competitive-programming">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmoy-kumar&repo=competitive-programming&theme=tokyonight" alt="competitive-programming" />
   </a>
   &nbsp;&nbsp;
-  <!-- repo 02 -->
+  -->
+  <!-- repo 02 
   <a href="https://github.com/chinmoy-kumar/hostel-management-system-java">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=chinmoy-kumar&repo=hostel-management-system-java&theme=tokyonight" alt="hostel-management-system-java" />
   </a>
 </p>
+-->
 
